@@ -1,4 +1,5 @@
-# P.I.-Grupo-04-DSM-2-Semestre-2022
+# PI - Grupo 04 DSM 2º Semestre/2022
+
 Repositório referente ao trabalho de P.I. 
 
 Integrantes do grupo 04: 
